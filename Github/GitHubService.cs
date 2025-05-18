@@ -10,7 +10,7 @@ using System.Runtime.InteropServices.Marshalling;
 using Microsoft.Extensions.Options;
 using System.Net.Http.Json;
 
-namespace Service
+namespace Github
 {
 
     public class GitHubService:IGitHubService
