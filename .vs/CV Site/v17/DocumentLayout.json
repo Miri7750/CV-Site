@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D2965E6-FBF7-4D30-A957-E18DFC089856}|CV Site\\CV Site.csproj|c:\\users\\user1\\desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\cv site\\cv site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D2965E6-FBF7-4D30-A957-E18DFC089856}|CV Site\\CV Site.csproj|solutionrelative:cv site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D2965E6-FBF7-4D30-A957-E18DFC089856}|CV Site\\CV Site.csproj|c:\\users\\user1\\desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\cv site\\cv site\\controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D2965E6-FBF7-4D30-A957-E18DFC089856}|CV Site\\CV Site.csproj|solutionrelative:cv site\\controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E7984C3-67EF-4C70-A0E0-CB2DBF72C584}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\cv site\\service\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E7984C3-67EF-4C70-A0E0-CB2DBF72C584}|Service\\Service.csproj|solutionrelative:service\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7984C3-67EF-4C70-A0E0-CB2DBF72C584}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\cv site\\service\\githuboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7984C3-67EF-4C70-A0E0-CB2DBF72C584}|Service\\Service.csproj|solutionrelative:service\\githuboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2965E6-FBF7-4D30-A957-E18DFC089856}|CV Site\\CV Site.csproj|c:\\users\\user1\\desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\cv site\\cv site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2965E6-FBF7-4D30-A957-E18DFC089856}|CV Site\\CV Site.csproj|solutionrelative:cv site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E7984C3-67EF-4C70-A0E0-CB2DBF72C584}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\cv site\\service\\repositorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,10 +38,6 @@
       "RelativeMoniker": "D:0:0:{0E7984C3-67EF-4C70-A0E0-CB2DBF72C584}|Service\\Service.csproj|solutionrelative:service\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E7984C3-67EF-4C70-A0E0-CB2DBF72C584}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\cv site\\service\\githuboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7984C3-67EF-4C70-A0E0-CB2DBF72C584}|Service\\Service.csproj|solutionrelative:service\\githuboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\CV Site\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CV Site\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -49,81 +49,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CV Site",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\CV Site\\CV Site.csproj",
-              "RelativeDocumentMoniker": "CV Site\\CV Site.csproj",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\CV Site\\CV Site.csproj*",
-              "RelativeToolTip": "CV Site\\CV Site.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-18T23:12:59.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\Extensions.cs",
-              "RelativeDocumentMoniker": "Service\\Extensions.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\Extensions.cs",
-              "RelativeToolTip": "Service\\Extensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T22:29:11.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GitHubService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\GitHubService.cs",
-              "RelativeDocumentMoniker": "Service\\GitHubService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\GitHubService.cs",
-              "RelativeToolTip": "Service\\GitHubService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T20:45:53.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RepositoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\RepositoryDTO.cs",
-              "RelativeDocumentMoniker": "Service\\RepositoryDTO.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\RepositoryDTO.cs",
-              "RelativeToolTip": "Service\\RepositoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T21:05:38.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GitHubController.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\CV Site\\Controllers\\GitHubController.cs",
               "RelativeDocumentMoniker": "CV Site\\Controllers\\GitHubController.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\CV Site\\Controllers\\GitHubController.cs",
               "RelativeToolTip": "CV Site\\Controllers\\GitHubController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T20:50:02.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\CV Site\\Program.cs",
               "RelativeDocumentMoniker": "CV Site\\Program.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\CV Site\\Program.cs*",
-              "RelativeToolTip": "CV Site\\Program.cs*",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\CV Site\\Program.cs",
+              "RelativeToolTip": "CV Site\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T15:49:30.51Z",
@@ -131,20 +79,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "CV Site",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\CV Site\\CV Site.csproj",
+              "RelativeDocumentMoniker": "CV Site\\CV Site.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\CV Site\\CV Site.csproj",
+              "RelativeToolTip": "CV Site\\CV Site.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T23:12:59.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IGitHubService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\IGitHubService.cs",
               "RelativeDocumentMoniker": "Service\\IGitHubService.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\IGitHubService.cs",
               "RelativeToolTip": "Service\\IGitHubService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwBAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T20:46:13.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "GitHubOptions.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\GitHubOptions.cs",
               "RelativeDocumentMoniker": "Service\\GitHubOptions.cs",
@@ -157,7 +118,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "GitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\GitHubService.cs",
+              "RelativeDocumentMoniker": "Service\\GitHubService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\GitHubService.cs",
+              "RelativeToolTip": "Service\\GitHubService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA3wDYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T20:45:53.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\Extensions.cs",
+              "RelativeDocumentMoniker": "Service\\Extensions.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\Extensions.cs",
+              "RelativeToolTip": "Service\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:29:11.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\RepositoryDTO.cs",
+              "RelativeDocumentMoniker": "Service\\RepositoryDTO.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\Service\\RepositoryDTO.cs",
+              "RelativeToolTip": "Service\\RepositoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:05:38.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\ab6a341d-eb76-4e60-8417-d5ee933b0a76\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\ab6a341d-eb76-4e60-8417-d5ee933b0a76\\secrets.json",
@@ -175,7 +175,6 @@
               "RelativeDocumentMoniker": "CV Site\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05E8\u05D2\u05D5\u05DC \u05D5\u05D7\u05D5\u05DE\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\practi-code\\CV Site\\CV Site\\Controllers\\UsersController.cs",
               "RelativeToolTip": "CV Site\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T08:30:23.86Z"
             }

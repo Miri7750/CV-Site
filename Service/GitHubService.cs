@@ -50,8 +50,9 @@ namespace Service
             return await _client.Search.SearchRepo(request);
         }
 
-        public async Task<List<GitHubEvent>> ListPublicEventsForUser(string username)
+        public async Task<List<GitHubEvent>> ListPublicEventsForUser()
         {
+            string username = _options.Username;
             var url = $"https://api.github.com/users/{username}/events/public";
 
             // הוספת כותרת User-Agent לפי דרישות GitHub API

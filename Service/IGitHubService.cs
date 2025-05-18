@@ -14,7 +14,7 @@ namespace Service
 
         public Task<SearchRepositoryResult> SearchRepositories(string name, string language, string username);
         
-        Task<List<GitHubEvent>> ListPublicEventsForUser(string username);
+        Task<List<GitHubEvent>> ListPublicEventsForUser();
     }
 
 }
