@@ -32,7 +32,7 @@ namespace CV_site.Controllers
             if (_cache.TryGetValue(cacheKey, out List<RepositoryInfo> cachedRepos) &&
                 _cache.TryGetValue(lastFetchedTimeKey, out DateTime lastFetchedTime))
             {
-                var events = await _gitHubService.ListPublicEventsForUser("Tova501"); 
+                var events = await _gitHubService.ListPublicEventsForUser("Miri7750"); 
                 if (events.Any(e => e.CreatedAt > lastFetchedTime))
                 {
                     _cache.Remove(cacheKey);
